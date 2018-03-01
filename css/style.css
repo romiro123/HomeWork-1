@@ -1,0 +1,17 @@
+
+
+body {
+    margin: 0px;
+    padding: 0PX;
+   }
+
+div {
+    height: 100vh;
+    float: left;
+}
+.level1 {
+    width: 50%;
+}
+.level2 {
+    width: calc(100%/3);
+}
